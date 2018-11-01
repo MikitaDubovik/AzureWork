@@ -1,0 +1,15 @@
+D:\Work\Git\AzureWork\AzureWork\AzureWork.Service\bin\Release\AzureWork.Service.dll.config
+D:\Work\Git\AzureWork\AzureWork\AzureWork.Service\bin\Release\AzureWork.Service.dll
+D:\Work\Git\AzureWork\AzureWork\AzureWork.Service\bin\Release\AzureWork.Service.pdb
+D:\Work\Git\AzureWork\AzureWork\AzureWork.Service\bin\Release\AzureWork.DbModel.dll
+D:\Work\Git\AzureWork\AzureWork\AzureWork.Service\bin\Release\EntityFramework.dll
+D:\Work\Git\AzureWork\AzureWork\AzureWork.Service\bin\Release\EntityFramework.SqlServer.dll
+D:\Work\Git\AzureWork\AzureWork\AzureWork.Service\bin\Release\AzureWork.DbModel.pdb
+D:\Work\Git\AzureWork\AzureWork\AzureWork.Service\bin\Release\AzureWork.DbModel.dll.config
+D:\Work\Git\AzureWork\AzureWork\AzureWork.Service\bin\Release\EntityFramework.xml
+D:\Work\Git\AzureWork\AzureWork\AzureWork.Service\bin\Release\EntityFramework.SqlServer.xml
+D:\Work\Git\AzureWork\AzureWork\AzureWork.Service\obj\Release\AzureWork.Service.csprojAssemblyReference.cache
+D:\Work\Git\AzureWork\AzureWork\AzureWork.Service\obj\Release\AzureWork.Service.csproj.CoreCompileInputs.cache
+D:\Work\Git\AzureWork\AzureWork\AzureWork.Service\obj\Release\AzureWork.Service.csproj.CopyComplete
+D:\Work\Git\AzureWork\AzureWork\AzureWork.Service\obj\Release\AzureWork.Service.dll
+D:\Work\Git\AzureWork\AzureWork\AzureWork.Service\obj\Release\AzureWork.Service.pdb
