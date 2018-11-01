@@ -1,0 +1,4 @@
+2018-11-01 15:02:52,439 [9] INFO AzureWork.Controllers.EntitiesController - Exception of type 'System.Exception' was thrown.
+2018-11-01 15:23:31,466 [5] INFO AzureWork.Controllers.EntitiesController - The method or operation is not implemented.
+2018-11-01 15:36:06,983 [9] INFO AzureWork.Controllers.EntitiesController - An error occurred while updating the entries. See the inner exception for details.
+2018-11-01 15:41:04,750 [8] INFO AzureWork.Controllers.EntitiesController - An error occurred while updating the entries. See the inner exception for details.
