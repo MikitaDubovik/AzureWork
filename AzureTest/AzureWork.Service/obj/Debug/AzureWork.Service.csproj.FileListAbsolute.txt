@@ -1,0 +1,15 @@
+D:\Work\Git\AzureTest\AzureTest\AzureWork.Service\bin\Debug\AzureWork.Service.dll
+D:\Work\Git\AzureTest\AzureTest\AzureWork.Service\bin\Debug\AzureWork.Service.pdb
+D:\Work\Git\AzureTest\AzureTest\AzureWork.Service\obj\Debug\AzureWork.Service.csprojAssemblyReference.cache
+D:\Work\Git\AzureTest\AzureTest\AzureWork.Service\obj\Debug\AzureWork.Service.csproj.CoreCompileInputs.cache
+D:\Work\Git\AzureTest\AzureTest\AzureWork.Service\obj\Debug\AzureWork.Service.dll
+D:\Work\Git\AzureTest\AzureTest\AzureWork.Service\obj\Debug\AzureWork.Service.pdb
+D:\Work\Git\AzureTest\AzureTest\AzureWork.Service\bin\Debug\AzureWork.Service.dll.config
+D:\Work\Git\AzureTest\AzureTest\AzureWork.Service\bin\Debug\AzureWork.DbModel.dll
+D:\Work\Git\AzureTest\AzureTest\AzureWork.Service\bin\Debug\EntityFramework.dll
+D:\Work\Git\AzureTest\AzureTest\AzureWork.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Git\AzureTest\AzureTest\AzureWork.Service\bin\Debug\AzureWork.DbModel.pdb
+D:\Work\Git\AzureTest\AzureTest\AzureWork.Service\bin\Debug\AzureWork.DbModel.dll.config
+D:\Work\Git\AzureTest\AzureTest\AzureWork.Service\bin\Debug\EntityFramework.xml
+D:\Work\Git\AzureTest\AzureTest\AzureWork.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Git\AzureTest\AzureTest\AzureWork.Service\obj\Debug\AzureWork.Service.csproj.CopyComplete

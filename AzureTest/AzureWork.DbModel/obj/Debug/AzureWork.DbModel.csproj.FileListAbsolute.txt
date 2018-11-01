@@ -1,0 +1,12 @@
+D:\Work\Git\AzureTest\AzureTest\AzureWork.DbModel\bin\Debug\AzureWork.DbModel.dll
+D:\Work\Git\AzureTest\AzureTest\AzureWork.DbModel\bin\Debug\AzureWork.DbModel.pdb
+D:\Work\Git\AzureTest\AzureTest\AzureWork.DbModel\obj\Debug\AzureWork.DbModel.csprojAssemblyReference.cache
+D:\Work\Git\AzureTest\AzureTest\AzureWork.DbModel\obj\Debug\AzureWork.DbModel.csproj.CoreCompileInputs.cache
+D:\Work\Git\AzureTest\AzureTest\AzureWork.DbModel\obj\Debug\AzureWork.DbModel.dll
+D:\Work\Git\AzureTest\AzureTest\AzureWork.DbModel\obj\Debug\AzureWork.DbModel.pdb
+D:\Work\Git\AzureTest\AzureTest\AzureWork.DbModel\bin\Debug\AzureWork.DbModel.dll.config
+D:\Work\Git\AzureTest\AzureTest\AzureWork.DbModel\bin\Debug\EntityFramework.dll
+D:\Work\Git\AzureTest\AzureTest\AzureWork.DbModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Git\AzureTest\AzureTest\AzureWork.DbModel\bin\Debug\EntityFramework.xml
+D:\Work\Git\AzureTest\AzureTest\AzureWork.DbModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Git\AzureTest\AzureTest\AzureWork.DbModel\obj\Debug\AzureWork.DbModel.csproj.CopyComplete
