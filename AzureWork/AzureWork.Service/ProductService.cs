@@ -1,7 +1,7 @@
 ﻿using AzureWork.DbModel;
 using System;
 using System.Collections.Generic;
-using System.Data.Entity;
+using System.Data.Entity.Migrations;
 using System.Linq;
 
 namespace AzureWork.Service
@@ -32,31 +32,24 @@ namespace AzureWork.Service
                 return false;
             }
 
-            _entities.Products.Remove(enitie);
-            _entities.SaveChanges();
-            return true;
+            try
+            {
+                _entities.Products.Remove(enitie);
+                _entities.SaveChanges();
+                return true;
+            }
+            catch (Exception e)
+            {
+                return false;
+            }
+
         }
 
         public bool Put(int id, Product product)
         {
-            var enitie = _entities.Products.FirstOrDefault(p => p.ProductID == id);
-            if (enitie == null)
-            {
-                try
-                {
-                    _entities.Products.Add(product);
-                    _entities.SaveChanges();
-                    return true;
-                }
-                catch (Exception e)
-                {
-                    return false;
-                }
-            }
             try
             {
-                _entities.Products.Remove(enitie);
-                _entities.Products.Add(product);
+                _entities.Products.AddOrUpdate(product);
                 _entities.SaveChanges();
                 return true;
             }

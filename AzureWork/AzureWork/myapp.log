@@ -2,3 +2,7 @@
 2018-11-01 15:23:31,466 [5] INFO AzureWork.Controllers.EntitiesController - The method or operation is not implemented.
 2018-11-01 15:36:06,983 [9] INFO AzureWork.Controllers.EntitiesController - An error occurred while updating the entries. See the inner exception for details.
 2018-11-01 15:41:04,750 [8] INFO AzureWork.Controllers.EntitiesController - An error occurred while updating the entries. See the inner exception for details.
+2018-11-02 10:32:05,724 [11] INFO AzureWork.Controllers.EntitiesController - An error occurred while updating the entries. See the inner exception for details.
+2018-11-02 10:37:52,409 [13] INFO AzureWork.Controllers.EntitiesController - An error occurred while updating the entries. See the inner exception for details.
+2018-11-02 10:38:44,805 [13] INFO AzureWork.Controllers.EntitiesController - An error occurred while updating the entries. See the inner exception for details.
+2018-11-02 10:38:54,440 [12] INFO AzureWork.Controllers.EntitiesController - An error occurred while updating the entries. See the inner exception for details.

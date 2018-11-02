@@ -5,6 +5,7 @@ D:\Work\Git\AzureWork\AzureWork\AzureWork.DbModel\bin\Release\EntityFramework.dl
 D:\Work\Git\AzureWork\AzureWork\AzureWork.DbModel\bin\Release\EntityFramework.SqlServer.dll
 D:\Work\Git\AzureWork\AzureWork\AzureWork.DbModel\bin\Release\EntityFramework.xml
 D:\Work\Git\AzureWork\AzureWork\AzureWork.DbModel\bin\Release\EntityFramework.SqlServer.xml
+D:\Work\Git\AzureWork\AzureWork\AzureWork.DbModel\obj\Release\AzureWork.DbModel.csprojAssemblyReference.cache
 D:\Work\Git\AzureWork\AzureWork\AzureWork.DbModel\obj\Release\AzureWork.DbModel.csproj.CoreCompileInputs.cache
 D:\Work\Git\AzureWork\AzureWork\AzureWork.DbModel\obj\Release\AzureWork.DbModel.csproj.CopyComplete
 D:\Work\Git\AzureWork\AzureWork\AzureWork.DbModel\obj\Release\AzureWork.DbModel.dll
