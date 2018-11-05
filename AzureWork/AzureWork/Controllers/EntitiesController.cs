@@ -10,6 +10,7 @@ namespace AzureWork.Controllers
     [RoutePrefix("api/Entities")]
     public class EntitiesController : ApiController
     {
+        //Log for lof
         private static readonly ILog log =
             LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
 
